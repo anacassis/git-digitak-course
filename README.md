@@ -6,3 +6,4 @@
 * teste 2
 
 * Teste 2 no git
+* comando git pull
