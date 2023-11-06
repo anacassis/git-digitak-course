@@ -5,5 +5,5 @@
 * uso do comando as
 * teste 2
 
-* Teste 2 no git
+* comando git fetch
 * comando git pull
